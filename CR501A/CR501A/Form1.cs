@@ -93,6 +93,11 @@ namespace CR501A
                 tbName.Text = blockDatastr;
                 tbContent.Text = cardSerialNo;
             }
+            else
+            {
+                tbName.Text = string.Empty;
+                tbContent.Text = string.Empty;
+            }
         }
     }
 }

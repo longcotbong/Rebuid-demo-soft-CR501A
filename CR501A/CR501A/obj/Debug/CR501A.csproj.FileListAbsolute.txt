@@ -8,3 +8,13 @@ D:\Proj\CR501A\CR501A\obj\Debug\CR501A.csproj.CoreCompileInputs.cache
 D:\Proj\CR501A\CR501A\obj\Debug\CR501A.exe
 D:\Proj\CR501A\CR501A\obj\Debug\CR501A.pdb
 D:\Proj\CR501A\CR501A\obj\Debug\CR501A.Form1.resources
+D:\Rebuid-demo-soft-CR501A\CR501A\CR501A\bin\Debug\CR501A.exe.config
+D:\Rebuid-demo-soft-CR501A\CR501A\CR501A\bin\Debug\CR501A.exe
+D:\Rebuid-demo-soft-CR501A\CR501A\CR501A\bin\Debug\CR501A.pdb
+D:\Rebuid-demo-soft-CR501A\CR501A\CR501A\obj\Debug\CR501A.csprojResolveAssemblyReference.cache
+D:\Rebuid-demo-soft-CR501A\CR501A\CR501A\obj\Debug\CR501A.Form1.resources
+D:\Rebuid-demo-soft-CR501A\CR501A\CR501A\obj\Debug\CR501A.Properties.Resources.resources
+D:\Rebuid-demo-soft-CR501A\CR501A\CR501A\obj\Debug\CR501A.csproj.GenerateResource.Cache
+D:\Rebuid-demo-soft-CR501A\CR501A\CR501A\obj\Debug\CR501A.csproj.CoreCompileInputs.cache
+D:\Rebuid-demo-soft-CR501A\CR501A\CR501A\obj\Debug\CR501A.exe
+D:\Rebuid-demo-soft-CR501A\CR501A\CR501A\obj\Debug\CR501A.pdb
